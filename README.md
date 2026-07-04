@@ -1,5 +1,5 @@
 # No enemies
-> Play the game **whirout enemies** and enjoy the exploration!
+> Play the game **without enemies** and enjoy the exploration!
 ### Requirements
 - [BepinEx](https://github.com/bepinex/bepinex)
 ### Version
